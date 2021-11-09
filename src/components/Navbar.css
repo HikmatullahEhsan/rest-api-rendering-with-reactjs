@@ -1,0 +1,27 @@
+.navbar {
+   background-color: #282c34 !important;
+}
+.search-input-panel {
+    font-size: 12px;
+    width: 13rem;
+}
+.nav-link {
+    color: #ffffff !important;
+}
+.navbar-brand {
+    color: #ffffff !important;
+}
+.header-item:not(.dropdown-menu) {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+}
+
+.header-item.-primary-button {
+    background-color: #00B073;
+    border-radius: 2px;
+    color: #fff;
+    height: auto;
+    padding-bottom: 0.3rem;
+    padding-top: 0.3rem;
+    font-weight: 600;
+}

@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## CORS - ERROR - SOLUTION
+This application fetch data from REST-APIs, which needs CORS enable, for handling this error use this https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en for Chrome browser, after adding of the extension turn On it, the run the project, otherwise project won't work properly
+
 In the project directory, you can run:
 
 ### `npm start`
